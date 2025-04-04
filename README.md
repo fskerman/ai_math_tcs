@@ -9,6 +9,7 @@ If you have no previous Lean experience, we suggest that during the exercise ses
 If you have some previous Lean experience, you might instead choose to work on one file from the
 `Topics` folder. Of course, you can play with all files from that folder if you
 have even more time.
+
 A more comprehensive learning resource is the book [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/).
 
 You can either work with a local installation of Lean, or use an online version with no registration required.
