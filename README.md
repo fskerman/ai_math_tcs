@@ -24,7 +24,7 @@ computer. After installing Lean, open a terminal and execute the commands listed
 2. Then download this repository using `git clone https://github.com/mariainesdff/ai_math_tcs.git`.
 4. Run `cd ai_math_tcs`.
 5. Run `lake exe cache get!` to download built dependencies.
-6. Launch VS Code, either through your application menu or by typing `code .`. (MacOS users need to take a one-off extra step to be able to launch VS Code from the command line.)
+6. Launch VS Code, either through your application menu or by typing `code .` (MacOS users need to take a one-off extra step to be able to launch VS Code from the command line.)
 7. If you launched VS Code from a menu, on the main screen, or in the File menu, click "Open folder" (just "Open" on a Mac), and choose the folder `ai_math_tcs` (**not** one of its subfolders).
 
 ## Online version, no registration
